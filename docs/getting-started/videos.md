@@ -20,3 +20,5 @@ parent: Getting Started
 ## by DesignCourse
 <div class="iframe"><iframe width="560" height="315" src="https://www.youtube.com/embed/mWeYMyN5-oo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
+## by Veneto Formazione (in italian)
+<div class="iframe"><iframe width="560" height="315" src="https://www.youtube.com/embed/kI70bUI5Iq0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
